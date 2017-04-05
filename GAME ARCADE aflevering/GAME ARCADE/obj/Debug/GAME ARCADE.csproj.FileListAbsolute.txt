@@ -1,0 +1,15 @@
+D:\Skole\VS - projekter\1. semester\Basic programming\1. projekt - SKAK\GAME ARCADE\GAME ARCADE\bin\Debug\GAME ARCADE.exe.config
+D:\Skole\VS - projekter\1. semester\Basic programming\1. projekt - SKAK\GAME ARCADE\GAME ARCADE\bin\Debug\GAME ARCADE.exe
+D:\Skole\VS - projekter\1. semester\Basic programming\1. projekt - SKAK\GAME ARCADE\GAME ARCADE\bin\Debug\GAME ARCADE.pdb
+D:\Skole\VS - projekter\1. semester\Basic programming\1. projekt - SKAK\GAME ARCADE\GAME ARCADE\obj\Debug\GAME ARCADE.csprojResolveAssemblyReference.cache
+D:\Skole\VS - projekter\1. semester\Basic programming\1. projekt - SKAK\GAME ARCADE\GAME ARCADE\obj\Debug\GAME ARCADE.exe
+D:\Skole\VS - projekter\1. semester\Basic programming\1. projekt - SKAK\GAME ARCADE\GAME ARCADE\obj\Debug\GAME ARCADE.pdb
+C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\bin\Debug\GAME ARCADE.exe.config
+C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.exe
+C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.pdb
+C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\bin\Debug\GAME ARCADE.exe
+C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\bin\Debug\GAME ARCADE.pdb
+C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.csprojResolveAssemblyReference.cache
+C:\Users\Dennis.MSI-DENNIS\Desktop\Datamatiker oplysninger\Afleveringer\GAME ARCADE aflevering\GAME ARCADE\bin\Debug\GAME ARCADE.exe.config
+C:\Users\Dennis.MSI-DENNIS\Desktop\Datamatiker oplysninger\Afleveringer\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.exe
+C:\Users\Dennis.MSI-DENNIS\Desktop\Datamatiker oplysninger\Afleveringer\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.pdb
