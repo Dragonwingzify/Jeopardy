@@ -1009,7 +1009,7 @@ static void Main(string[] args)
         {
 
             string fVersion = FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location).FileVersion;
-            Console.WriteLine(fVersion);
+            Console.WriteLine("Version: {0}", fVersion);
             Console.WriteLine("Hi, and welcome to GAME ARCADE! Please pick one of the available games. \n1. MineSweeper, 2. Jeopardy, 3. Chess.");
 
             bool looper = true;
