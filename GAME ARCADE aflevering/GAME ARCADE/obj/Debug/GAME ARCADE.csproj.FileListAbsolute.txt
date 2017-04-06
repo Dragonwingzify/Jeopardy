@@ -13,3 +13,6 @@ C:\Users\Dennis.MSI-DENNIS\Desktop\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\
 C:\Users\Dennis.MSI-DENNIS\Desktop\Datamatiker oplysninger\Afleveringer\GAME ARCADE aflevering\GAME ARCADE\bin\Debug\GAME ARCADE.exe.config
 C:\Users\Dennis.MSI-DENNIS\Desktop\Datamatiker oplysninger\Afleveringer\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.exe
 C:\Users\Dennis.MSI-DENNIS\Desktop\Datamatiker oplysninger\Afleveringer\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.pdb
+C:\CodeProjects\Jeopardy\Jeopardy\GAME ARCADE aflevering\GAME ARCADE\bin\Debug\GAME ARCADE.exe.config
+C:\CodeProjects\Jeopardy\Jeopardy\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.exe
+C:\CodeProjects\Jeopardy\Jeopardy\GAME ARCADE aflevering\GAME ARCADE\obj\Debug\GAME ARCADE.pdb
