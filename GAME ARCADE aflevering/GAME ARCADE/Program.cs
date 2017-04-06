@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -1005,6 +1007,9 @@ namespace GAME_ARCADE
 #endregion
 static void Main(string[] args)
         {
+
+            string fVersion = FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location).FileVersion;
+            Console.WriteLine(fVersion);
             Console.WriteLine("Hi, and welcome to GAME ARCADE! Please pick one of the available games. \n1. MineSweeper, 2. Jeopardy, 3. Chess.");
 
             bool looper = true;
